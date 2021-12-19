@@ -1,2 +1,16 @@
-# api-paginada-m
-Script em linguagem M para consumir API paginada no Power Query.
+<div align="center">
+  <h1>Consumo de API paginada em linguagem M</h1>
+</div>
+
+
+
+_________________
+
+
+
+
+### Sobre
+O script cria uma rituna de consumo de dados de APIs paginadas através da ""linguagem M"", permitindo agendar um fluxo de consumo, tratamento e atualização dentro do **Power Query**, para soluções que dispensam o uso de uma staging.
+  
+### Tecnologia
+Linguagem **M**.
